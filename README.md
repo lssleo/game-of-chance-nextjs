@@ -41,6 +41,8 @@ yarn add --dev hardhat
 yarn hardhat node
 ```
 
+</br>
+
 Add hardhat network to your metamask:
 
 - Open metamask and add new network:
@@ -49,6 +51,7 @@ Add hardhat network to your metamask:
   - Chain ID: 31337
   - Currency Symbol: ETH or GO
 - Then import at least one or more accounts from your hardhat localhost.
+</br>
 
 Run Front-end:
 
@@ -69,6 +72,7 @@ yarn
 ```
 yarn dev
 ```
+</br>
 
 Then go to the UI in your browser(localhost): http://localhost:3000
 
